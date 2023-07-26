@@ -1,0 +1,56 @@
+.mainDiv2{
+    text-align:center ;
+    background-color: rgb(67, 67, 67);
+    height: 85px;
+    margin-top: 30px;
+    width: 1036px;
+    margin-left: 250px;
+    border-radius: 20px;
+    color: aliceblue;
+    -webkit-box-shadow: inset 0px -2px 12px -1px rgba(0,0,0,0.75);
+-moz-box-shadow: inset 0px -2px 12px -1px rgba(0,0,0,0.75);
+box-shadow: inset 0px -2px 12px -1px rgba(0,0,0,0.75);
+}
+.mainDiv2:hover{-webkit-box-shadow: 0px 0px 6px 2px rgb(255, 255, 255);
+    -moz-box-shadow: 0px 0px 6px 2px rgb(255, 255, 255);
+    box-shadow: 0px 0px 6px 2px rgb(221, 221, 221);}
+
+    .profile{
+        background-color: aliceblue;
+        color: black;
+        text-align: center;
+        width: 50px;
+        height: 50px;
+        border-radius: 40px;
+        font-size: 37px;
+        margin-left: -900px;
+    }
+#delete{
+    font-size: 40px;
+    position: absolute;
+    margin-top: -40px;
+    margin-left: 430px;
+   
+}
+#delete:hover{
+    color: rgb(255, 255, 255);
+    text-shadow: -2px 2px 3px #FF0000;
+    
+}
+#write:hover{
+    color: rgb(255, 255, 255);
+    text-shadow: -2px 2px 3px #37ff00;
+    
+}
+.details{
+    font-size: 20px;
+    margin-top: -58px;
+
+}
+
+#write{
+    position: absolute;
+    font-size: 40px;
+    margin-top: -40px;
+    margin-left: 300px;
+}

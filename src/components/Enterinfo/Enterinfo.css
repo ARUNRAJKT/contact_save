@@ -1,0 +1,73 @@
+.mainDiv{
+    text-align:center ;
+    background-color: rgb(67, 67, 67);
+    height: 330px;
+    width: 1036px;
+    margin-left: 250px;
+    border-radius: 20px;
+    color: aliceblue;
+    -webkit-box-shadow: inset 0px -2px 12px -1px rgba(0,0,0,0.75);
+-moz-box-shadow: inset 0px -2px 12px -1px rgba(0,0,0,0.75);
+box-shadow: inset 0px -2px 12px -1px rgba(0,0,0,0.75);
+}
+.mainDiv4{
+    text-align:center ;
+    background-color: rgb(45, 34, 34);
+    height: 330px;
+    width: 1036px;
+    margin-left: 250px;
+    border-radius: 20px;
+    color: aliceblue;
+    -webkit-box-shadow: inset 0px -2px 12px -1px rgba(0,0,0,0.75);
+-moz-box-shadow: inset 0px -2px 12px -1px rgba(0,0,0,0.75);
+box-shadow: inset 0px -2px 12px -1px rgba(0,0,0,0.75);
+}
+.mainDiv:hover{-webkit-box-shadow: 0px 0px 6px 2px rgb(141, 141, 141);
+    -moz-box-shadow: 0px 0px 6px 2px rgb(142, 142, 142);
+    box-shadow: 0px 0px 6px 2px rgb(147, 146, 146);}
+    .mainDiv4:hover{-webkit-box-shadow: 0px 0px 6px 2px rgb(255, 254, 254);
+        -moz-box-shadow: 0px 0px 6px 2px rgb(255, 255, 255);
+        box-shadow: 0px 0px 6px 2px rgb(255, 255, 255);}
+.line{
+    background-color: white;
+    height: 1px;
+    width: 900px;
+    position: absolute;
+    margin-left: 60px;
+    
+
+}
+.inputvalues input{
+    width: 700px;
+    color: black;
+    height: 40px;
+}
+#add:hover{
+    background-color: rgb(105, 154, 7);
+    border-radius: 10px;
+    color: black;
+}
+#error{
+    color: red;
+}
+#add{
+    width: 200px;
+    font-size: 20px;
+    font-weight: 700;
+    background-color: rgb(11, 132, 11);
+}
+#update{
+    width: 200px;
+    font-size: 20px;
+    font-weight: 700;
+    background-color: rgb(7, 184, 194);
+}
+.topDiv{
+    color: #e0dfdc;
+
+letter-spacing: .1em;
+text-shadow: 0 -1px 0 #fff, 0 1px 0 #2e2e2e, 0 2px 0 #2c2c2c, 0 3px 0 #2a2a2a, 0 4px 0 #282828, 0 5px 0 #262626, 0 6px 0 #242424, 0 7px 0 #222, 0 8px 0 #202020, 0 9px 0 #1e1e1e, 0 10px 0 #1c1c1c, 0 11px 0 #1a1a1a, 0 12px 0 #181818, 0 13px 0 #161616, 0 14px 0 #141414, 0 15px 0 #121212, 0 22px 30px rgba(0,0,0,0.9);
+}
+form{
+    font-size: 15px;
+}

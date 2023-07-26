@@ -1,0 +1,22 @@
+.secondDiv{
+    background-color: green;
+    width: 900px;
+    height: 250px;
+    margin-left: 330px;
+    font-weight: 700;
+    margin-top: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    color: aliceblue;
+    
+}
+.senter{
+    width: 800px;
+    margin-left: 200px;
+}
+.secondDiv input{
+    width: 400px;
+    margin-top: 10px;
+}
+::placeholder{
+    color: black;
+}
